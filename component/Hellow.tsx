@@ -21,7 +21,7 @@ export default function Hellow() {
 
   return (
     <div>
-      hellow form client component
+      Hellow form client component
       <div>Result from route handler:{data}</div>
     </div>
   );
